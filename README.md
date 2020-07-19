@@ -1,5 +1,8 @@
 #cowsay example
+
 #https://realpython.com/python-versions-docker/
+
+#https://runnable.com/docker/python/dockerize-your-python-application
 
 #check installation
 
